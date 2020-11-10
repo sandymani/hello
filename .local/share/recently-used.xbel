@@ -99,12 +99,42 @@
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///home/sandhiya/Pictures/Screenshots/Screenshot%20from%202020-11-10%2013-27-26.png" added="2020-11-10T18:27:26Z" modified="2020-11-10T18:27:26Z" visited="2020-11-10T18:27:26.631488Z">
+  <bookmark href="file:///home/sandhiya/Pictures/Screenshots/Screenshot%20from%202020-11-10%2013-27-26.png" added="2020-11-10T18:27:26Z" modified="2020-11-10T18:27:26Z" visited="2020-11-10T18:27:26Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="image/png"/>
         <bookmark:applications>
           <bookmark:application name="gsd-media-keys" exec="&apos;gsd-media-keys %u&apos;" modified="2020-11-10T18:27:26Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/sandhiya/Pictures/Screenshots/Screenshot%20from%202020-11-10%2013-42-35.png" added="2020-11-10T18:42:36Z" modified="2020-11-10T18:42:36Z" visited="2020-11-10T18:42:36Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="gsd-media-keys" exec="&apos;gsd-media-keys %u&apos;" modified="2020-11-10T18:42:36Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/sandhiya/Pictures/Screenshots/Screenshot%20from%202020-11-10%2013-50-44.png" added="2020-11-10T18:50:44Z" modified="2020-11-10T18:50:44Z" visited="2020-11-10T18:50:44Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="gsd-media-keys" exec="&apos;gsd-media-keys %u&apos;" modified="2020-11-10T18:50:44Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/sandhiya/Pictures/Screenshots/Screenshot%20from%202020-11-10%2013-50-49.png" added="2020-11-10T18:50:49Z" modified="2020-11-10T18:50:49Z" visited="2020-11-10T18:50:50.151207Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="gsd-media-keys" exec="&apos;gsd-media-keys %u&apos;" modified="2020-11-10T18:50:49Z" count="1"/>
         </bookmark:applications>
       </metadata>
     </info>
